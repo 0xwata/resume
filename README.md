@@ -2,7 +2,7 @@
 
 0xwata の職務経歴書
 職務経歴およびスキルなどをまとめたページです。
-[Github Pages](0xwata.github.io/resume/) でもご覧いただけます。
+[Github Pages](https://0xwata.github.io/resume/) でもご覧いただけます。
 
 - どんなエンジニアか、どんなエンジニアでありたいか
 - [基本情報](#基本情報)
