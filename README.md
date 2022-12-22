@@ -35,11 +35,11 @@
 
 # SNS
 
-| 項目     | 内容                                 |
-| -------- | ------------------------------------ |
-| Twitter  | https://twitter.com/\_\_\_wata\_\_\_ |
-| Facebook | https://www.facebook.com/0xwata/     |
-| Wantedly | https://www.wantedly.com/id/oxwata   |
+| 項目     | 内容                               |
+| -------- | ---------------------------------- |
+| Twitter  | https://twitter.com/___wata\_\_\_  |
+| Facebook | https://www.facebook.com/0xwata/   |
+| Wantedly | https://www.wantedly.com/id/oxwata |
 
 # 職務経歴
 
