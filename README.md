@@ -67,7 +67,10 @@
 
 # その他活動プロジェクト
 
-TODO
+- [Worldwide StRhyme](https://minori-products.wixsite.com/minori/%E8%A4%87%E8%A3%BD-%E7%A7%81%E3%81%B8%E3%81%86%E3%81%A4%E3%82%8B-1)
+  - 役割：韻フレーズの収集
+  - その他展示情報
+    - [11/18-22 multi-lingua-body](https://www.instagram.com/p/ClGlfC4y-kZ/)
 
 # スキル・経験
 
