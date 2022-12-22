@@ -37,7 +37,7 @@
 
 | 項目     | 内容                               |
 | -------- | ---------------------------------- |
-| Twitter  | https://twitter.com/___wata___     |
+| Twitter  | <https://twitter.com/___wata___>   |
 | Facebook | https://www.facebook.com/0xwata/   |
 | Wantedly | https://www.wantedly.com/id/oxwata |
 
