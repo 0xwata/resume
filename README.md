@@ -74,7 +74,8 @@
   - 役割：韻フレーズの収集
   - その他展示情報
     - [11/18-22 multi-lingua-body](https://www.instagram.com/p/ClGlfC4y-kZ/)
-
+- 週末プロトタイピング
+  - https://hometeeee.studio.site/
 # スキル・経験
 
 [スキルリスト](/skills.md)
